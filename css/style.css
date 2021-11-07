@@ -1021,6 +1021,7 @@ a.rotate-box-2:hover {
 ul.social-list {
     text-align: center;
     margin: 0 auto;
+    padding-left: 40px;
 }
 
 ul.social-list li {
@@ -1436,7 +1437,7 @@ p.subtitle {
 }
 
 .scrolltotop .fa {
-    padding-left: 4px;
+    padding-left: 2px;
     -webkit-transform: rotate(-45deg);
     -moz-transform: rotate(-45deg);
     -o-transform: rotate(-45deg);
