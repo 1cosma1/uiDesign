@@ -115,10 +115,17 @@ section {
     background: #FFF url(../img/page-loader.gif) center center no-repeat;
 }
 
-.devider {
+.devidern {
     width: 100%;
     height: 23px;
-    background: url('../img/aranjament.png') no-repeat center center;
+    background: url('../img/anegru.png') no-repeat center center;
+    margin: 5px 0 10px;
+}
+
+.devidera {
+    width: 100%;
+    height: 23px;
+    background: url('../img/aalb.png') no-repeat center center;
     margin: 5px 0 10px;
 }
 
